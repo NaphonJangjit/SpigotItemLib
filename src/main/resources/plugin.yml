@@ -1,0 +1,5 @@
+name: ItemLib
+main: net.heeheehub.itemlib.ItemLib
+version: 1.0-DEVELOPMENT
+api-version: 1.21
+author: Naphon
